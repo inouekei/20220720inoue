@@ -1,6 +1,6 @@
 # COACHTECH
 Todoを作成し、リスト化する
-< --- トップ画面の画像 ---- >
+![top](https://user-images.githubusercontent.com/108909962/179929320-1986f44c-c9f0-434d-9815-454147ddb2e5.png)
 
 ## 作成した目的
 課題演習
@@ -15,7 +15,8 @@ Todoを作成し、リスト化する
 - MySQL、PHP（Laravel　8.x）
 
 ## テーブル設計
-< --- 作成したテーブル設計の画像 ---- >
+![table](https://user-images.githubusercontent.com/108909962/179929396-c35e7900-e90f-47ae-96b3-c6101a8252c5.png)
 
 ## ER図
-< --- 作成したER図の画像 ---- >
+![index drawio](https://user-images.githubusercontent.com/108909962/179929449-c514f98a-44bf-4325-8c69-db35d0fe83bf.png)
+
